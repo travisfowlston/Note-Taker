@@ -8,7 +8,7 @@ The Module 11 Challenge objective was to create an application called Note Taker
 
 ![deployment-screenshot]()
 
-[Walkthrough Link]()
+[Deployment Link]()
 
 ## Comments
 
