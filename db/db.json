@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Note",
+    "text": "This is a test note...",
+    "id": "40c4f8bc-fba5-4a39-9610-d7e875933cf9"
+  },
+  {
+    "title": "About the Notes",
+    "text": "Each note is given a unique ID!",
+    "id": "a19ff566-efd9-4e80-9395-edeeb9dc019b"
+  }
 ]
