@@ -8,7 +8,7 @@ The Module 11 Challenge objective was to create an application called Note Taker
 
 ## Deployment Screenshot
 
-![deployment-screenshot]()
+![deployment-screenshot](./public/assets/images/deployment-screenshot.JPG)
 
 [Deployment Link]()
 
